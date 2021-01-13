@@ -1,0 +1,71 @@
+{
+  "size": {
+    "width": 2500,
+    "height": 1686
+  },
+  "selected": true,
+  "name": "Lakers Zone",
+  "chatBarText": "查看更多資訊",
+  "areas": [
+    {
+      "bounds": {
+        "x": 1669,
+        "y": 17,
+        "width": 818,
+        "height": 826
+      },
+      "action": {
+        "type": "message",
+        "text": "線上商城"
+      }
+    },
+    {
+      "bounds": {
+        "x": 25,
+        "y": 859,
+        "width": 793,
+        "height": 805
+      },
+      "action": {
+        "type": "uri",
+        "uri": "https://nba.udn.com/search/word/湖人"
+      }
+    },
+    {
+      "bounds": {
+        "x": 864,
+        "y": 873,
+        "width": 767,
+        "height": 788
+      },
+      "action": {
+        "type": "message",
+        "text": "想要聯繫管理員!"
+      }
+    },
+    {
+      "bounds": {
+        "x": 1686,
+        "y": 877,
+        "width": 797,
+        "height": 788
+      },
+      "action": {
+        "type": "message",
+        "text": "請求加入好友"
+      }
+    },
+    {
+      "bounds": {
+        "x": 29,
+        "y": 21,
+        "width": 772,
+        "height": 805
+      },
+      "action": {
+        "type": "message",
+        "text": "球員圖像辨識"
+      }
+    }
+  ]
+}
