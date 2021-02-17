@@ -10,4 +10,4 @@ user.txt是用來記錄透過linebot api所抓取到的使用者資訊並在後�
 LakerZone.ipynb是主程式檔
 
 
-![images] (https://github.com/abow79/Linebot-LakerZone/raw/main/menupicture.png)
+![image] (https://github.com/abow79/Linebot-LakerZone/raw/main/menupicture.png)
