@@ -11,7 +11,7 @@ LakerZone.ipynb是主程式檔
 
 
 
-![image](https://github.com/abow79/Linebot-LakerZone/raw/main/menupicture.png)
+![image](https://github.com/abow79/Linebot-LakerZone/raw/main/poster.PNG)
 
 
 
