@@ -132,7 +132,7 @@ def process_message_event(event):
         event.reply_token,
         reply_arr
       )
-      lineUnregisterUserMenuResponse=line_bot_api.unlink_rich_menu_from_user(userid)
+      lineUnregisterUserMenuResponse=line_bot_api.unlink_rich_menu_from_user(userid) #解除用戶的選單
   elif textmessage=="球員圖像辨識":
     Confirm_template = TemplateSendMessage(
         alt_text='目錄 template',
