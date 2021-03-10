@@ -59,7 +59,7 @@ run_with_ngrok(app)
 line_bot_api = LineBotApi("R2SYuUgAqgEqK9dcsFk+tpkXVek/6Uyz1u7QLuVheAUZ0cnOkStae7Prx1QpCbZ0LzAodMPpBHDTRms1b7x0UhTXpuwJwyC9XDLYSEgcwLU6GHUYBJ660hDj5WlnPRrXbcwCWlWzgGrkxqrN34h0MQdB04t89/1O/w1cDnyilFU=")
 handler = WebhookHandler('c9329d4e3aa6586f7d287261523314c0')
 
-@app.route("/", methods=['POST'])
+@app.route("/callback", methods=['POST'])
 def callback():
     # get X-Line-Signature header value
     signature = request.headers['X-Line-Signature']
